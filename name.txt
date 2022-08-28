@@ -3,3 +3,5 @@ learning git from code with harry and kunal
 lec-3 from code with harry
 lec-4 from code with harry
 lec-5 from code with harry
+lec-6 from code with harry
+
